@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Practice.unity
+    guid: 34c6d0b7da6b2c241bd772c02504e29b
+  - enabled: 1
+    path: Assets/Scenes/PhonePractice.unity
+    guid: 58a6f6e9572ae504bb103a6c32f24d6d
+  - enabled: 1
+    path: Assets/Scenes/NamePractice.unity
+    guid: 63fffce14b5012940b598e111b19fb6b
+  - enabled: 1
+    path: Assets/Scenes/AddressPractice.unity
+    guid: d6c5d130173a6f647bd64942195b7a21
+  - enabled: 1
+    path: Assets/Scenes/Review.unity
+    guid: 6c57017a995451a499275d67bb166e86
+  - enabled: 1
+    path: Assets/Scenes/Statistics.unity
+    guid: 4a2a0e7462f060d47a122f7942f1f325
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 937f235471ebbb4468e65476fb0d2fed
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Unscramble/endGameUnscramble.unity
+    guid: a5a83ce75a43e084aa14ff571555e98e
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Fill-In/PhoneFillIn.unity
+    guid: 302cd0009fc8b2a4181aeff20e4b0c33
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Simon/PhoneSimon.unity
+    guid: 8f79d200edeaf0540933878709c48c56
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Unscramble/InstructionsUnscramble.unity
+    guid: 13cbcbdfc4717144ca65288971700ce1
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Fill-In/FillInLevelSelect.unity
+    guid: a92a339faf7a6484cb25dc2c6c98082d
+  - enabled: 1
+    path: Assets/Scenes/Name Practice/Building Blocks/endBuildingBlocks.unity
+    guid: 754249912d18deb4fb6e382647b704a8
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Unscramble/Unscramble.unity
+    guid: 47d026fdfe4412641834cab819adf979
+  - enabled: 1
+    path: Assets/Scenes/Name Practice/Alphabet Soup/endAlphabetSoup.unity
+    guid: b9d7d8b417cbc3f468a978fae3f1f4bf
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Unscramble/LevelSelectionUnscramble.unity
+    guid: a63e6e101fb02fb44b1c3f9795a72434
+  - enabled: 1
+    path: Assets/Scenes/Name Practice/Alphabet Soup/LevelSelectionAlphabetSoup.unity
+    guid: d1daa54ed47f37c4ab662fde234be791
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Fill-In/FillInLevel1.unity
+    guid: c0634b84a829b5147aea0c0e8077ac6a
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Fill-In/FillInLevel2.unity
+    guid: e3ec8bff7f7d28e4f9814eda8c903cf7
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Fill-In/FillInLevel3.unity
+    guid: 739a274f29b192e4bb5957d648996ece
+  - enabled: 1
+    path: Assets/Scenes/Review/ReviewPhone.unity
+    guid: 60819c0c07f82904bab2f830826a3b5d
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Mail Out/AddressMailOut.unity
+    guid: 22640a100b8f1094594c690999c91047
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Taxi/AddressTaxi.unity
+    guid: 912cd73ff5c23c549b6574b3c4cd8e0f
+  - enabled: 1
+    path: Assets/Scenes/Name Practice/Building Blocks/InstructionsBuildingBlocks.unity
+    guid: cc4b7d0494584b24d8716acf9990ebd6
+  - enabled: 1
+    path: Assets/Scenes/Name Practice/Alphabet Soup/InstructionsAlphabetSoup.unity
+    guid: 84a5e9b6edb6348479ac5f9450b84fdb
+  - enabled: 1
+    path: Assets/Scenes/Name Practice/Building Blocks/selectLevelBuildingBlocks.unity
+    guid: 9900eca826c01b949ac7cc9056d3f342
+  - enabled: 1
+    path: Assets/Scenes/Name Practice/Building Blocks/BuildingBlocks.unity
+    guid: bb1cb085f0df27d40ae51c2b811daa88
+  - enabled: 1
+    path: Assets/Scenes/Contacts.unity
+    guid: dcbf28c6a4bb66d4c9590b1c69af5da1
+  - enabled: 1
+    path: Assets/Scenes/Contacts.unity
+    guid: dcbf28c6a4bb66d4c9590b1c69af5da1
+  - enabled: 1
+    path: Assets/Scenes/Contacts.unity
+    guid: dcbf28c6a4bb66d4c9590b1c69af5da1
+  - enabled: 1
+    path: Assets/Scenes/Review/ReviewName.unity
+    guid: 71f5ace2b10aa844aa91960bd37ef4ea
+  - enabled: 1
+    path: Assets/Scenes/Review/ReviewAddress.unity
+    guid: 1358d2ebb9453fc47990dafc195c8b40
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Simon/SimonLevel1.unity
+    guid: ae6680f0852eac24ead667244e80266f
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Simon/SimonLevel1.unity
+    guid: ae6680f0852eac24ead667244e80266f
+  - enabled: 1
+    path: Assets/Scenes/Name Practice/Alphabet Soup/AlphabetSoup.unity
+    guid: 6055c84b702fc564dab652b53f5ebfc4
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Taxi/TaxiLevelSelect.unity
+    guid: e97e9d03924677a4db39fac19ec3beff
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Taxi/TaxiLevel1.unity
+    guid: 53bb3a6719dcb0a45af93e17f9bc5e04
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Taxi/TaxiLevel2.unity
+    guid: a309fe9528e8bd944abe9301829150f6
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Taxi/TaxiLevel3.unity
+    guid: 499358ac0589a8242a589c5fd8adc36a
+  - enabled: 1
+    path: Assets/Scenes/Phone Practice Scenes/Unscramble/Unscramble.unity
+    guid: 47d026fdfe4412641834cab819adf979
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Mail Out/MailOut.unity
+    guid: 6966ea87adee8434fba4bcfd3ac3ec8e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Mail Out/MailOutLevelSelect.unity
+    guid: db53882def17cba4ca288016cc0043d2
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Mail Out/MailOutTest.unity
+    guid: af1b3505db6612a46a063dacd40675f5
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Mail Out/MailOutLevel1.unity
+    guid: 7259a9d7e022abe4d9d7efd8ab3a0ca7
+  - enabled: 1
+    path: Assets/Scenes/Address Practice/Mail Out/MailOutLevel3.unity
+    guid: ec7924124d723c141956e45b96a6ad11
+  m_configObjects: {}
